@@ -1,0 +1,23 @@
+//Class Complex
+
+commit f09da83c8734102c77e7ad5a50fd71e4d85f77bb (HEAD -> master)
+Author: PARINYA JAIHARN <s6201012620155@email.kmutnb.ac.th>
+Date:   Tue Aug 25 22:29:31 2020 +0700
+
+    Create Complex class but unfinish and cannot run the code
+
+--------------------------------------------------------------------
+
+//Class Ball
+
+commit bbeaa09b66735a6b501986dbf0e8ca4d9cdfa8ea (HEAD -> master)
+Author: PARINYA JAIHARN <s6201012620155@email.kmutnb.ac.th>
+Date:   Tue Aug 25 23:10:46 2020 +0700
+
+    Develope Class Ball to undo deleted ball but unfinish
+
+commit daa33ad31a05a8ff20bb2f0c83d05738df0be9dd
+Author: PARINYA JAIHARN <s6201012620155@email.kmutnb.ac.th>
+Date:   Tue Aug 25 21:44:56 2020 +0700
+
+    Create class ball/ click to delete
